@@ -16,8 +16,18 @@
 ![Vite](https://img.shields.io/badge/-vite-gray?logo=vite)
 ![Webpack](https://img.shields.io/badge/-webpack-gray?logo=webpack)
 
+![Tanstack](https://img.shields.io/badge/-tanstack-gray?logo=reactquery)
+![ReactRouter](https://img.shields.io/badge/-react--router-gray?logo=reactrouter)
+![RHK](https://img.shields.io/badge/-react--hook--form-gray?logo=reacthookform)
+![Formik](https://img.shields.io/badge/-formik-gray?logo=formik)
+
 ![MUI](https://img.shields.io/badge/-mui-gray?logo=mui)
 ![Mantine](https://img.shields.io/badge/-mantine-gray?logo=mantine)
+
+![Tailwind](https://img.shields.io/badge/-tailwind-gray?logo=tailwindcss)
+![postcss](https://img.shields.io/badge/-postCSS-gray?logo=postcss)
+![CSS-Modules](https://img.shields.io/badge/-css--modules-gray?logo=cssmodules)
+![CSS](https://img.shields.io/badge/-css-gray?logo=css3)
 
 ![Hono](https://img.shields.io/badge/-hono-gray?logo=hono)
 ![Express](https://img.shields.io/badge/-express-gray?logo=express)
@@ -27,5 +37,6 @@
 ![Prisma](https://img.shields.io/badge/-prisma-gray?logo=prisma)
 ![Hasura](https://img.shields.io/badge/-hasura-gray?logo=hasura)
 
+![GQL](https://img.shields.io/badge/-graphql-gray?logo=graphql&logoColor=pink)
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-gray?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-mongoDB-gray?logo=mongodb)

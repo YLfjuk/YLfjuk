@@ -2,3 +2,30 @@
 
 <a href="https://picrew.me/en/image_maker/22819"><img alt="" src="https://github.com/user-attachments/assets/a29cf83c-2a68-410a-9108-8249f4330967" height="200" /></a>
 <a href="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IamSeries/IamProgrammerEnglish.png"><img alt="programmer?uwu" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/IamSeries/IamProgrammerEnglish.png" height="200" /></a>
+
+## Languages
+![TS](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/-python-yellow?logo=python)
+![C#](https://img.shields.io/badge/-c%23-purple)
+![Java](https://img.shields.io/badge/-java-gray)
+
+## Tech
+![React](https://img.shields.io/badge/-react-gray?logo=react)
+![Astro](https://img.shields.io/badge/-astro-gray?logo=astro)
+
+![Vite](https://img.shields.io/badge/-vite-gray?logo=vite)
+![Webpack](https://img.shields.io/badge/-webpack-gray?logo=webpack)
+
+![MUI](https://img.shields.io/badge/-mui-gray?logo=mui)
+![Mantine](https://img.shields.io/badge/-mantine-gray?logo=mantine)
+
+![Hono](https://img.shields.io/badge/-hono-gray?logo=hono)
+![Express](https://img.shields.io/badge/-express-gray?logo=express)
+![NodeJS](https://img.shields.io/badge/-node-gray?logo=node.js)
+
+![Drizzle](https://img.shields.io/badge/-drizzle-gray?logo=drizzle)
+![Prisma](https://img.shields.io/badge/-prisma-gray?logo=prisma)
+![Hasura](https://img.shields.io/badge/-hasura-gray?logo=hasura)
+
+![PostgreSQL](https://img.shields.io/badge/-postgreSQL-gray?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-mongoDB-gray?logo=mongodb)

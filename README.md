@@ -40,3 +40,11 @@
 ![GQL](https://img.shields.io/badge/-graphql-gray?logo=graphql&logoColor=pink)
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-gray?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-mongoDB-gray?logo=mongodb)
+
+## Platforms
+
+![Github](https://img.shields.io/badge/-github-gray?logo=github)
+![Azure](https://img.shields.io/badge/-azure-gray?logo=azure)
+![Gitlab](https://img.shields.io/badge/-gitlab-gray?logo=gitlab)
+
+![Vercel](https://img.shields.io/badge/-vercel-gray?logo=vercel)

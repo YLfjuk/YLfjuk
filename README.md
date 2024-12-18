@@ -12,6 +12,7 @@
 ## Tech
 ![React](https://img.shields.io/badge/-react-gray?logo=react)
 ![Astro](https://img.shields.io/badge/-astro-gray?logo=astro)
+![Lit](https://img.shields.io/badge/-lit-gray?logo=lit)
 
 ![Vite](https://img.shields.io/badge/-vite-gray?logo=vite)
 ![Webpack](https://img.shields.io/badge/-webpack-gray?logo=webpack)

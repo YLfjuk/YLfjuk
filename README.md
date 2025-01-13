@@ -6,6 +6,7 @@
 ## Languages
 ![TS](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=black)
 ![Python](https://img.shields.io/badge/-python-yellow?logo=python)
+![Elixir](https://img.shields.io/badge/-elixir%23-purple?logo=elixir)
 ![C#](https://img.shields.io/badge/-c%23-purple)
 ![Java](https://img.shields.io/badge/-java-gray)
 
@@ -32,6 +33,7 @@
 
 ![Hono](https://img.shields.io/badge/-hono-gray?logo=hono)
 ![Express](https://img.shields.io/badge/-express-gray?logo=express)
+
 ![NodeJS](https://img.shields.io/badge/-node-gray?logo=node.js)
 
 ![Drizzle](https://img.shields.io/badge/-drizzle-gray?logo=drizzle)
@@ -39,6 +41,9 @@
 ![Hasura](https://img.shields.io/badge/-hasura-gray?logo=hasura)
 
 ![GQL](https://img.shields.io/badge/-graphql-gray?logo=graphql&logoColor=pink)
+
+![Redis](https://img.shields.io/badge/-redis-gray?logo=redis)
+
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-gray?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-mongoDB-gray?logo=mongodb)
 

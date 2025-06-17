@@ -32,12 +32,15 @@
 ![CSS](https://img.shields.io/badge/-css-gray?logo=css3)
 
 ![Hono](https://img.shields.io/badge/-hono-gray?logo=hono)
+![NestJS](https://img.shields.io/badge/-nestjs-gray?logo=nestjs)
 ![Express](https://img.shields.io/badge/-express-gray?logo=express)
 
 ![NodeJS](https://img.shields.io/badge/-node-gray?logo=node.js)
 
 ![Drizzle](https://img.shields.io/badge/-drizzle-gray?logo=drizzle)
 ![Prisma](https://img.shields.io/badge/-prisma-gray?logo=prisma)
+![MikroORM](https://img.shields.io/badge/-mikroORM-gray?logo=mikroorm)
+![TypeORM](https://img.shields.io/badge/-typeORM-gray?logo=typeorm)
 ![Hasura](https://img.shields.io/badge/-hasura-gray?logo=hasura)
 
 ![GQL](https://img.shields.io/badge/-graphql-gray?logo=graphql&logoColor=pink)
@@ -46,6 +49,8 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-gray?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-mongoDB-gray?logo=mongodb)
+
+![Kafka](https://img.shields.io/badge/-kafka-gray?logo=apachekafka)
 
 ![Github](https://img.shields.io/badge/-github-gray?logo=github)
 ![Azure](https://img.shields.io/badge/-azure-gray?logo=azure)

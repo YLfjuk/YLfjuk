@@ -32,12 +32,15 @@
 ![CSS](https://img.shields.io/badge/-css-gray?logo=css3)
 
 ![Hono](https://img.shields.io/badge/-hono-gray?logo=hono)
+![NestJs](https://img.shields.io/badge/-nestjs-gray?logo=nestjs)
 ![Express](https://img.shields.io/badge/-express-gray?logo=express)
 
 ![NodeJS](https://img.shields.io/badge/-node-gray?logo=node.js)
 
 ![Drizzle](https://img.shields.io/badge/-drizzle-gray?logo=drizzle)
 ![Prisma](https://img.shields.io/badge/-prisma-gray?logo=prisma)
+![mikroORM](https://img.shields.io/badge/-mikroORM-gray?logo=mikroorm)
+![typeORM](https://img.shields.io/badge/-typeORM-gray?logo=typeorm)
 ![Hasura](https://img.shields.io/badge/-hasura-gray?logo=hasura)
 
 ![GQL](https://img.shields.io/badge/-graphql-gray?logo=graphql&logoColor=pink)
